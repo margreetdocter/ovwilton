@@ -13,7 +13,7 @@ parts:
   - caption: het orkest
     chapters:
     - file: some_content/orkest.md
-    sections:
+      sections:
       - file: some_content/dirigent.md
       - file: some_content/fafkla.md
       - file: some_content/dansband.md
