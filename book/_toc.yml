@@ -17,16 +17,13 @@ parts:
       - file: some_content/dirigent.md
       - file: some_content/fafkla.md
       - file: some_content/dansband.md
-  
   - caption: beeld&geluid
     chapters:        
     - file: repetoire.md
     - file: beelden.md
-  
   - caption: agenda
     chapters:        
     - file: agenda.md
-    
   - caption: English
     chapters:
     - file: english.md
