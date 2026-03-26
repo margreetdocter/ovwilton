@@ -28,10 +28,10 @@
   
 </div>
 
-Koeweide 2018: verhaal in de Ster:  https://www.flickr.com/photos/desteronline/sets/72157691585908090
-Koeweide 2019 (de Ster): https://www.flickr.com/photos/desteronline/albums/72157708839282628/
-Koeweide 2022: reportage in de Ster: https://www.flickr.com/photos/desteronline/albums/72177720299246548
-Koeweide 2025: https://www.flickr.com/photos/desteronline/albums/72177720326496873/
+- Koeweide 2018: verhaal in de Ster:  https://www.flickr.com/photos/desteronline/sets/72157691585908090
+- Koeweide 2019 (de Ster): https://www.flickr.com/photos/desteronline/albums/72157708839282628/
+- Koeweide 2022: reportage in de Ster: https://www.flickr.com/photos/desteronline/albums/72177720299246548
+- Koeweide 2025: https://www.flickr.com/photos/desteronline/albums/72177720326496873/
 
 ## Posters
 
