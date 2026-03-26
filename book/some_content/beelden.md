@@ -1,7 +1,7 @@
 # Foto’s 
 
 (sommige foto's uit een hele oude doos)
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display: flex; flex-wrap: wrap;">
   <img src="../figures/oude_doos/41521.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300" />
   <img src="../figures/oude_doos/41523.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300" />
   <img src="../figures/oude_doos/41597.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300" />
@@ -35,7 +35,7 @@
 
 ## Posters
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display: flex; flex-wrap: wrap;">
   <img src="../figures/poster_kizzy_2014.jpg" alt="poster kerstconcert met Kizzy " height="300" />
   <img src="../figures/poster_nieuwjaar_2015.jpg" alt="poster nieuwsjaarsconcert " height="300" />
   <img src="../figures/poster_2017.JPG" alt="poster nieuwjaarsconcert 2017 " height="300" />
