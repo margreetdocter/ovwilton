@@ -13,10 +13,9 @@ parts:
   - caption: het Orkest
     chapters:
     - file: some_content/orkest.md
-      sections:
-      - file: some_content/dirigent.md
-      - file: some_content/fafkla.md
-      - file: some_content/dansband.md
+    - file: some_content/dirigent.md
+    - file: some_content/fafkla.md
+    - file: some_content/dansband.md
   - caption: Beeld & Geluid
     chapters:        
     - file: some_content/repertoire.md
