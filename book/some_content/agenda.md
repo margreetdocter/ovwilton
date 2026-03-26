@@ -41,7 +41,7 @@
 Vanwege corona maatregelen hebben we in 2020 & 2021 weinig concerten kunnen geven, ook ‘Van Smartlap tot Opera’ ging helaas niet door.
 2021
 - 12 september: de dansband speelt bij de Blijde Wei in Ommoord, heerlijk in de zonnige buitenlucht met in achtneming van de 1.5 meter corona afstand.
-- 13 mei: Fafkla speelt samen met Jaja-opera: de premiere van mogelijk de eerste online Zoom-opera ooit (JaJa Opera De gezellige wijffies van Rotterdam – YouTube)
+- 13 mei: Fafkla speelt samen met Jaja-opera: de premiere van mogelijk de eerste online Zoom-opera ooit ([JaJa Opera De gezellige wijffies van Rotterdam – YouTube](https://www.youtube.com/watch?v=2YKd3N9WjAk))
 - 26 april: onze voorzitter ontvangt een koninklijk lintje voor al zijn (muzikale en organisatorische) inzet voor onze vereniging: https://www.ad.nl/waterweg/dit-zijn-de-ontvangers-van-een-lintje-in-deze-regio~ab3257c8/
 
 2020
