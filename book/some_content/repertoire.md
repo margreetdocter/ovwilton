@@ -9,7 +9,7 @@ Hieronder een greep uit ons recent repertoire, met enkele opnames. Een completer
 - De Thuiskomst – Willem Breuker
 - 2e Jazz Suite – Sjostakovitsj
 - Armenian Dances – Alfred Reed
--  the Legend of the Flathead Lake – Carl Wittrock
+- the Legend of the Flathead Lake – Carl Wittrock
 - East Coast Pictures – Nigel Hess (Catskills, https://www.youtube.com/watch?v=_FGk73hd92Y)
 - Dance Suite – Joseph Horovitz
 - Saga Candida & Maligna – Bert Appermont (https://www.youtube.com/watch?v=m8G99GG2oCQ)
@@ -18,7 +18,7 @@ Hieronder een greep uit ons recent repertoire, met enkele opnames. Een completer
 ## Opnames
 
 <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/nhb7FKcpnyc" 
+src="https://www.youtube.com/watch?v=nhb7FKcpnyc" 
 title="Symphony X, Don Gillis" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
@@ -32,7 +32,7 @@ allowfullscreen>
 </iframe>
 
 <iframe width="560" height="315" 
-src="https://www.youtube.com/embed/nhb7FKcpnyc" 
+src="https://www.youtube.com/watch?v=D7tZuKtF2To" 
 title="Een brilliant dubbel fluitconcert (Rondo Brilliante, Furstenau, 2017)" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
