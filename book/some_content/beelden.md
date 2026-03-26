@@ -20,10 +20,11 @@
   <img src="../figures/oude_doos/maritiem digitaal 1966.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300">
   <img src="../figures/oude_doos/SHI001028796.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300">
   <img src="../figures/oude_doos/SHI001029165.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300">
-  <img src="../figures/oude_doos/19840908 naamgeving burg Scheeresplein wilton fd0911ed-1773-f73a-01aa-3cdb1267fe3b.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300">
-  <img src="../figures/oude_doos/19840908_naamgeving_Scheeresplein.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300">
-  <img src="../figures/oude_doos/19970325.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300">
-  <img src="../figures/oude_doos/20060402.jpg" alt="oude (grijzige) foto van wilton's harmonie" width="300">
+  <img src="../figures/oude_doos/19840908 naamgeving burg Scheeresplein wilton fd0911ed-1773-f73a-01aa-3cdb1267fe3b.jpg" alt="oude (kleur) foto van wilton's harmonie" width="300">
+  <img src="../figures/oude_doos/19840908_naamgeving_Scheeresplein.jpg" alt="oude (kleur)  foto van wilton's harmonie" width="300">
+  <img src="../figures/oude_doos/1991 leerlingorkest oude gebouw kerst.JPG" alt="oude (kleur)  foto van wilton's harmonie" width="300">
+  <img src="../figures/oude_doos/19970325.jpg" alt="oude (kleur)  foto van wilton's harmonie" width="300">
+  <img src="../figures/oude_doos/20060402.jpg" alt="oude (kleur)  foto van wilton's harmonie" width="300">
   
 </div>
 
