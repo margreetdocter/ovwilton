@@ -1,6 +1,8 @@
 # Fafkla trio
 Het Fafkla trio bestaat uit Brenda op dwarsfluit, Elsbeth op klarinet, en Margreet op fagot. Vanuit orkestvereniging Wilton, een van oorsprong harmonieorkest van de vroegere werf Wilton Fijenoord, zijn we in 2015 een nieuw avontuur gestart met zijn drieën.
 
+<img src="../figures/fafkla.jpg" alt="foto fafkla trio (fluit, fagot, klarinet) " width="800">
+
 We spelen kamermuziek van alle tijden: barok, klassiek, romantisch, modern, en opera. Met een kleinere bezetting is het een extra uitdaging om goed op elkaar ingespeeld te zijn, en te zorgen voor balans, muzikaliteit, en de juiste bladmuziek (we schrijven nog wel eens wat om).
 
 Als trio geven we graag eigen concerten, zoals inloopconcerten tijdens de Schiedamse Brandersfeesten en monumentendagen, en huiskamerconcerten bij verzorgingshuizen. Ook werken we graag samen met zangers en andere muzikanten, zoals tijdens het wandeltheater Hart voor de Zaak (2017, Schiedam).
