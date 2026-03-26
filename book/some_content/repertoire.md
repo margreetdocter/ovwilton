@@ -14,6 +14,7 @@ Hieronder een greep uit ons recent repertoire, met enkele opnames. Een completer
 - Dance Suite – Joseph Horovitz
 - Saga Candida & Maligna – Bert Appermont (https://www.youtube.com/watch?v=m8G99GG2oCQ)
 - Slava – Leonard Bernstein (https://www.youtube.com/watch?v=dPA_57r5bKE)
+- Perhaps Love (https://www.youtube.com/watch?v=WBmL57ylOBY)
  
 ## Opnames
 
