@@ -19,7 +19,7 @@ parts:
       - file: some_content/dansband.md
   - caption: Beeld & Geluid
     chapters:        
-    - file: some_content/repetoire.md
+    - file: some_content/repertoire.md
     - file: some_content/beelden.md
   - caption: Agenda
     chapters:        
