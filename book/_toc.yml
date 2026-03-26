@@ -10,20 +10,23 @@ parts:
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
     - file: some_content/overview.md
-  - caption: het orkest
+  - caption: het Orkest
     chapters:
     - file: some_content/orkest.md
       sections:
       - file: some_content/dirigent.md
       - file: some_content/fafkla.md
       - file: some_content/dansband.md
-  - caption: beeld&geluid
+  - caption: Beeld & Geluid
     chapters:        
     - file: some_content/repetoire.md
     - file: some_content/beelden.md
-  - caption: agenda
+  - caption: Agenda
     chapters:        
     - file: some_content/agenda.md
   - caption: English
     chapters:
     - file: some_content/english.md
+  - caption: Contact
+    chapters:
+    - file: some_content/contact.md
