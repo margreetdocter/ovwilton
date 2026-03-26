@@ -22,6 +22,6 @@ Fotoreportage 2018 https://www.flickr.com/photos/desteronline/sets/7215769158590
 
 <img src="../figures/poster_2024.jpg" alt="poster 2024 nog meer dansen" height="500">
 
-<img src="../figures/poster_2025.jpg" alt="poster 2025 voorjaar" height="500">
+<img src="../figures/poster_april_2025.jpg" alt="poster 2025 voorjaar" height="500">
 
-<img src="../figures/poster_2024.jpg" alt="poster 2026 jubileimconcert" height="500">
+<img src="../figures/wilton_2026_april_poster.jpg" alt="poster 2026 jubileumconcert" height="500">
