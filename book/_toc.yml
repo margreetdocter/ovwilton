@@ -19,11 +19,11 @@ parts:
       - file: some_content/dansband.md
   - caption: beeld&geluid
     chapters:        
-    - file: repetoire.md
-    - file: beelden.md
+    - file: some_content/repetoire.md
+    - file: some_content/beelden.md
   - caption: agenda
     chapters:        
-    - file: agenda.md
+    - file: some_content/agenda.md
   - caption: English
     chapters:
-    - file: english.md
+    - file: some_content/english.md
