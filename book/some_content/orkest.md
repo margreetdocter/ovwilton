@@ -11,7 +11,8 @@ Het Schiedamse harmonieorkest van Orkestvereniging Wilton, speelt in de 1e divis
 
 De tijd van de marcherende drumband en majorettes ligt ondertussen achter ons, we zijn een zittend orkest. We zijn niet meer gelinkt aan de werf Wilton. Na een omzwerving als Blazerscollectief ENECO zijn we sinds 2005 terug in Schiedam onder de naam Orkestvereniging Wilton.
 
-<img src="../figures/foto_recent.jpg" alt="recentere foto van orkestvereniging Wilton" width="800">
+<img src="../figures/ovw_portret.jpeg" alt="foto orkest" width="600">
+
 
 Orkestvereniging Wilton speelt sinds 1980 onder leiding van dirigent Jean Gruter. Jean Gruter weet het orkest al jaren te laten uitkomen in de 1e divisie (voorheen Vaandel afdeling). Met veel trots denken we terug aan het moderne en zeer spectaculaire “Apotheosis of this Earth” van Karel Husa waarmee we in 1995 tot de top drie amateurorkesten van Nederland behoorden. Maar ook meer recent hebben we in samenwerking met meerdere koren de “Carmina Burana” van Carl Orff onder andere in de Doelen uitgevoerd.
 
