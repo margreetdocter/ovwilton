@@ -1,7 +1,9 @@
 # Agenda
 
 2026
--	31 mei: van Smartlap tot Opera (Koeweide Rotterdam, https://nl-nl.facebook.com/vansmartlaptotopera)
+- 26 september: Fafkla, Brandersfeesten in de Grote kerk, Schiedam
+- 13 september: Fafkla, Muziekfestival Utrechtse Heuvelrug, Driebergen
+- 31 mei: van Smartlap tot Opera (Koeweide Rotterdam, https://nl-nl.facebook.com/vansmartlaptotopera)
 - 18 april: concert Dorpskerk Kethel, Schiedam
 - 7 maart: Fafkla, half uurtje Bach in IJsselstein
 -	6 feb: Fafkla, concert in de Ridder, sint Jorisweg, Delft 
