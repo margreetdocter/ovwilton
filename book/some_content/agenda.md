@@ -1,5 +1,10 @@
 # Agenda
 
+2027:
+- 23 mei: van Smartlap tot Opera, Koeweide Rotterdam
+- 22, 29, 30 mei en 2 juni: Fafkla speelt mee in de opera Carmen met Jaja opera https://www.jaja-zangcoach.nl/projecten-jaja-opera/
+- 6 februari: Dorpskerk Kethel
+
 2026
 - 26 september: Fafkla, Brandersfeesten in de Grote kerk, Schiedam
 - 13 september: Fafkla, Muziekfestival Utrechtse Heuvelrug, Driebergen
